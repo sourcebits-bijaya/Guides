@@ -69,6 +69,7 @@ NOTE: The command `sudo` will require an admin password. The same password you u
 	5. Activate virtualenv:
 
 		```
+		cd yourenv/ #otherwise it will throw you error.
 		source bin/activate
 		```
 		The result in Terminal should be something like:
